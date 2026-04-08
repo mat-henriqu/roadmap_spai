@@ -102,7 +102,7 @@
 
 **Progresso:**
 
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
