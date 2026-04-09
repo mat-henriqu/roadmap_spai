@@ -156,7 +156,7 @@
 
 **Progresso:**
 
-- [ ] BACK
+- [X] BACK
 - [ ] FRONT
 
 ---
@@ -175,7 +175,7 @@
 
 **Progresso:**
 
-- [ ] BACK
+- [X] BACK
 - [ ] FRONT
 
 ---
@@ -212,7 +212,7 @@
 
 **Progresso:**
 
-- [ ] BACK
+- [X] BACK
 - [ ] FRONT
 
 ---
@@ -237,7 +237,7 @@
 
 **Progresso:**
 
-- [ ] BACK
+- [X] BACK
 - [ ] FRONT
 
 ---
