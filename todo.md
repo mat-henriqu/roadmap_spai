@@ -1,13 +1,13 @@
 # 🗺️ Roadmap — SPai Portal
 
-> 2 épicos · 15 histórias mapeadas
+> 2 épicos · 16 histórias mapeadas
 
 ---
 
 ## Sumário
 
 - [🔵 Épico 1 · Comunicações](#-épico-1--comunicações) — 4 histórias
-- [🟣 Épico 2 · Mapeamento de Dados](#-épico-2--mapeamento-de-dados-data-mapping) — 10 histórias
+- [🟣 Épico 2 · Mapeamento de Dados](#-épico-2--mapeamento-de-dados-data-mapping) — 11 histórias
 
 ---
 
@@ -275,4 +275,22 @@
 **Progresso:**
 
 - [ ] BACK
+- [ ] FRONT
+
+---
+
+### História 16 · Atualização do content-type nas requisições de FieldMapping
+
+> Adaptar o frontend para enviar requisições ao endpoint de FieldMapping usando `application/json` em vez de `multipart/form-data`, conforme atualização do backend.
+
+**Labels:** `Feature` `Frontend`
+
+**Tarefas:**
+
+    - Atualizar as chamadas de POST e PUT de FieldMapping para enviar o corpo como JSON
+    - Remover o uso de FormData nessas requisições
+    - Validar que os dados enviados continuam corretos após a mudança de formato
+
+**Progresso:**
+
 - [ ] FRONT
