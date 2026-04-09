@@ -194,7 +194,7 @@
 
 **Progresso:**
 
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
