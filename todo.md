@@ -1,13 +1,13 @@
 # 🗺️ Roadmap — SPai Portal
 
-> 2 épicos · 14 histórias mapeadas
+> 2 épicos · 15 histórias mapeadas
 
 ---
 
 ## Sumário
 
 - [🔵 Épico 1 · Comunicações](#-épico-1--comunicações) — 4 histórias
-- [🟣 Épico 2 · Mapeamento de Dados](#-épico-2--mapeamento-de-dados-data-mapping) — 9 histórias
+- [🟣 Épico 2 · Mapeamento de Dados](#-épico-2--mapeamento-de-dados-data-mapping) — 10 histórias
 
 ---
 
@@ -257,3 +257,21 @@
 **Progresso:**
 
 - [ ] BACK
+
+---
+
+### História 15 · Exibição de erro ao layout sem sessões na tela de comunicações
+
+> Se o layout não tiver sessões configuradas, o frontend deve exibir um erro na tela de comunicações.
+
+**Labels:** `Validação` `Frontend`
+
+**Tarefas:**
+
+    - Verificar se o layout possui sessões configuradas ao carregar a tela de comunicações
+    - Exibir mensagem de erro clara quando nenhuma sessão estiver configurada
+    - Bloquear ações dependentes de sessão enquanto o erro estiver ativo
+
+**Progresso:**
+
+- [ ] FRONT
