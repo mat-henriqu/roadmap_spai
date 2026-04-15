@@ -44,10 +44,10 @@ Aqui, eu e os demais devs do time registramos as histórias planejadas e marcamo
 
 | História | Épico | BACK | FRONT |
 |----------|-------|------|-------|
-| H1 · Edição de critérios de comunicação | Comunicações | ✅ | ⬜ |
-| H2 · Inativação de comunicação | Comunicações | ✅ | — |
-| H3 · Definição de comunicação padrão | Comunicações | ✅ | ⬜ |
-| H4 · Priorização de critérios | Comunicações | ⬜ | ⬜ |
+| H1 · Edição de critérios de comunicação | Comunicações | ✅ | ✅ |
+| H2 · Inativação de comunicação | Comunicações | ✅ | ✅ |
+| H3 · Definição de comunicação padrão | Comunicações | ✅ | ✅ |
+| H4 · Priorização de critérios | Comunicações | ✅ | ✅ |
 | H6 · Padronização de telas | Data Mapping | — | ✅ |
 | H7 · Upload e configuração de Data Mapping | Data Mapping | ⬜ | ⬜ |
 | H8 · Reutilização de configurações | Data Mapping | ⬜ | — |

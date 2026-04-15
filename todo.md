@@ -28,7 +28,7 @@
 **Progresso:**
 
 - [X] BACK
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
@@ -47,6 +47,7 @@
 **Progresso:**
 
 - [X] BACK
+- [x] FRONT
 
 ---
 
@@ -64,7 +65,7 @@
 **Progresso:**
 
 - [X] BACK
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
@@ -81,8 +82,8 @@
 
 **Progresso:**
 
-- [ ] BACK
-- [ ] FRONT
+- [x] BACK
+- [x] FRONT
 
 ---
 
