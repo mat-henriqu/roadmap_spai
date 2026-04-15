@@ -6,7 +6,7 @@
 
 ## Sumário
 
-- [🔵 Épico 1 · Comunicações](#-épico-1--comunicações) — 4 histórias
+- [🔵 Épico 1 · Comunicações](#-épico-1--comunicações) — 5 histórias
 - [🟣 Épico 2 · Mapeamento de Dados](#-épico-2--mapeamento-de-dados-data-mapping) — 11 histórias
 
 ---
@@ -28,7 +28,7 @@
 **Progresso:**
 
 - [X] BACK
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
@@ -47,6 +47,7 @@
 **Progresso:**
 
 - [X] BACK
+- [x] FRONT
 
 ---
 
@@ -64,7 +65,7 @@
 **Progresso:**
 
 - [X] BACK
-- [ ] FRONT
+- [x] FRONT
 
 ---
 
@@ -81,8 +82,32 @@
 
 **Progresso:**
 
-- [ ] BACK
-- [ ] FRONT
+- [x] BACK
+- [x] FRONT
+
+---
+
+### História 5 · Refinamento da edição de critérios
+
+> Melhorar a experiência e a persistência da edição de critérios na tela de comunicações.
+
+**Labels:** `Feature` `Frontend` `UX/Design`
+
+**Tarefas:**
+
+    - Remover botão global de salvar durante a edição
+    - Remover ícone de lixeira no modo de edição
+    - Usar PUT para atualização de critério existente (ícone de check)
+    - Usar PATCH para inclusão de novo critério em edição (ícone de plus)
+    - Garantir que o PATCH de inclusão envie apenas o novo critério
+    - Reorganizar layout dos campos (Campo em linha separada + Operador/Valor/Prioridade abaixo)
+    - Melhorar destaque visual dos botões de ação (check/plus)
+    - Exibir feedback de erro quando houver falha nas chamadas de API
+    - Feedback visual indicando detalhes sobre prioridade
+
+**Progresso:**
+
+- [x] FRONT
 
 ---
 
